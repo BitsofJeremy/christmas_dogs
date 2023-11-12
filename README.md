@@ -2,7 +2,7 @@
 
 Just a fun app to post a dog to Mastodon daily till Christmas 2022
 
-[Blog Post](https://funinternetthings.com/christmas-dogs-code-and-art-released/)
+[Blog Post](https://ephergent.com/christmas-dogs-code-and-art-released/)
 
 ---
 
