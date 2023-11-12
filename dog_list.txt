@@ -1,0 +1,24 @@
+Labrador Retriever
+French Bulldog
+Golden Retriever
+German Shepherd Dog
+Poodle
+Bulldog
+Beagle
+Rottweiler
+German Shorthaired Pointer
+Dachshund
+Pembroke Welsh Corgi
+Australian Shepherd
+Yorkshire Terrier
+Boxer
+Cavalier King Charles Spaniel
+Doberman Pinscher
+Great Dane
+Miniature Schnauzer
+Siberian Huskie
+Bernese Mountain Dog
+Cane Corso
+Shih Tzu
+Boston Terrier
+Pomeranian
